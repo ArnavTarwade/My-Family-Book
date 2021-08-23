@@ -13,7 +13,7 @@ function update()
     
     var updatedImage = [images];
     
-    var updatedName = [names]
+    var updatedName = [names];
 
     document.getElementById("family_member_image").src = updatedImage;
     document.getElementById("family_member_name").innerHTML = updatedName;
