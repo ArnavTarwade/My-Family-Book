@@ -3,7 +3,7 @@ var names = ["Family Book","Ranbir Singh", "Diljeet Singh", "Rocky Singh", "Alia
 var i = 0;
 function update()
 {
-  if(i == 9)
+  if(i == 6)
     {
      i=1;
     }
