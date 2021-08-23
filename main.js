@@ -5,7 +5,7 @@ function update()
 {
   if(i == 5);
     {
-     i=1;
+     i=0;
     }
   
   document.getElementById("family_member_image").src = images[i];
